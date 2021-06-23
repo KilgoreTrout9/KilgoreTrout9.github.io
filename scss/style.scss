@@ -4,10 +4,10 @@
 @use 'components/animations';
 @use 'components/buttons';
 @use 'components/mixins';
-@use 'components/topography';
+@use 'components/typography';
 
 // Import the sections
-@use 'sections/companies';
+@use 'sections/technologies';
 @use 'sections/faq';
 @use 'sections/footer';
 @use 'sections/get-started';
